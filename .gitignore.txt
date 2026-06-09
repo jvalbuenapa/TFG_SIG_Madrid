@@ -1,0 +1,19 @@
+# Archivos temporales
+*.tmp
+*.bak
+*.old
+~$*
+.DS_Store
+Thumbs.db
+
+# QGIS temporales
+*.qgz~
+*.qgs~
+*.aux.xml
+*.qgd
+
+# Carpetas de trabajo temporal
+temp/
+tmp/
+backup/
+_backups/

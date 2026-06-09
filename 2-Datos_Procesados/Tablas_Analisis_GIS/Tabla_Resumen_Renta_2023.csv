@@ -1,0 +1,6 @@
+clase renta;renta_ord;n_municipios;renta_media;renta_min;renta_max;participacion media;derecha media;izquierda media;densidad_media
+Muy baja;1;54;12900,22;11511;13987;73,02;55,07;41,81;332,29
+Baja;2;75;15408,05;14014;16924;75,84;54,88;41,72;603,43
+Media;3;41;18381,8;17032;20858;78,5;56,75;39,85;457,07
+Alta;4;6;22939,67;21644;24183;79,34;65,82;31,17;1345,83
+Muy alta;5;3;27439,67;25127;30524;81,63;73,92;24;1498,87

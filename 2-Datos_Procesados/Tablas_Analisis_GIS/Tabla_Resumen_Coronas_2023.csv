@@ -1,0 +1,5 @@
+corona madrid;corona_ord;n_municipios;distancia_media_km;participacion media;derecha media;izquierda media;renta_media;densidad_media
+0-20 km;1;17;15,33;77,06;57,69;39,24;19959,53;2340,36
+20-40 km;2;83;30,97;74,79;57,87;38,88;15636,66;605,48
+40-60 km;3;58;47,92;74,94;54,35;42,36;14768,59;72,03
+>60 km;4;21;66,86;81,25;52,26;44,24;15814;14,01
